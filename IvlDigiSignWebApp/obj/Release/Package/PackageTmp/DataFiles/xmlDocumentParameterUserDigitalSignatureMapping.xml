@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DocParamUserDigiSignMapping>
+  <ParameterMappingDetails>
+    <DigiSignMappingDetails DocId="C001" ParameterId="1111"  UserId="USER00001" DSId="R001" DocSignedType="First"   ServerId="1A"></DigiSignMappingDetails>
+    <SignLocation llxAxis="590" llyAxis="70" xAxis="440" yAxis="160"></SignLocation>
+  </ParameterMappingDetails>
+
+  <ParameterMappingDetails>
+    <DigiSignMappingDetails DocId="C001" ParameterId="2222"  UserId="USER00002" DSId="R001" DocSignedType="Last"   ServerId="1B"></DigiSignMappingDetails>
+    <SignLocation llxAxis="580" llyAxis="100" xAxis="490" yAxis="160"></SignLocation>
+  </ParameterMappingDetails>
+
+  <ParameterMappingDetails>
+    <DigiSignMappingDetails DocId="C001" ParameterId="2222"  UserId="USER00003" DSId="R003" DocSignedType="Last"   ServerId="1B"></DigiSignMappingDetails>
+    <SignLocation llxAxis="450" llyAxis="70" xAxis="320" yAxis="110"></SignLocation>
+  </ParameterMappingDetails>
+
+  <ParameterMappingDetails>
+    <DigiSignMappingDetails DocId="C001" ParameterId="2222"  UserId="USER00004" DSId="R004" DocSignedType="Last"   ServerId="1B"></DigiSignMappingDetails>
+    <SignLocation llxAxis="590" llyAxis="70" xAxis="440" yAxis="110"></SignLocation>
+  </ParameterMappingDetails>
+</DocParamUserDigiSignMapping>

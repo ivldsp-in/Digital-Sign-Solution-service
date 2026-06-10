@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DocumentMaster>
+  <DocumentDetails>
+    <Document DocId ="1" DocDescription="" ApplicationMsgCondition="" MsgType="" MsgTransmitionMedium="" MultiSign="X" DateModified=""></Document>
+  </DocumentDetails>
+  <DocumentDetails>
+    <Document DocId ="2" DocDescription="" ApplicationMsgCondition="" MsgType="" MsgTransmitionMedium="" MultiSign="X" DateModified="" ></Document>
+  </DocumentDetails>
+</DocumentMaster>

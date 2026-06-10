@@ -1,0 +1,20 @@
+30-07-2019 14:19:41::: Error: --------------------------------------------------------
+30-07-2019 14:19:41:Input Header:Docid: Error: C001
+30-07-2019 14:19:41:Input Header:Docdesc: Error: 
+30-07-2019 14:19:41:Input Header:Signtyp: Error: F
+30-07-2019 14:19:41:Input Header:Signmul: Error: 
+30-07-2019 14:19:41:Json Array::PRMID: Error: [{"USERID":"USER00002","UTYP":"O","UNAME":"IVLDEV09","PRMID":"P001","DNGID":"R001","DNGST":"A","SEMAIL":"rine.m.a@ivldsp.com","SIGNTYP":""}]
+30-07-2019 14:19:41:Json Array:0:PRMID: Error: P001
+30-07-2019 14:19:41:Json Array:0:USERID: Error: USER00002
+30-07-2019 14:19:41:Json Array:0:DNGID: Error: R001
+30-07-2019 14:19:41:IvlDigiSign:SignPdfFromSmartCard: Error: Certificate is not valid
+30-07-2019 14:19:41:eSignWebService:GetSignedDoc2 : Convert signed pdf to Hex: Error: Could not find file 'E:\IVL_2019\DigiSignV1.3\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\PdfFiles\Out\OutPdf30072019141941.pdf'.
+30-07-2019 14:22:45::: Error: --------------------------------------------------------
+30-07-2019 14:22:45:Input Header:Docid: Error: C001
+30-07-2019 14:22:45:Input Header:Docdesc: Error: 
+30-07-2019 14:22:45:Input Header:Signtyp: Error: F
+30-07-2019 14:22:45:Input Header:Signmul: Error: 
+30-07-2019 14:22:45:Json Array::PRMID: Error: [{"USERID":"USER00002","UTYP":"O","UNAME":"IVLDEV09","PRMID":"P001","DNGID":"R001","DNGST":"A","SEMAIL":"rine.m.a@ivldsp.com","SIGNTYP":""}]
+30-07-2019 14:22:45:Json Array:0:PRMID: Error: P001
+30-07-2019 14:22:45:Json Array:0:USERID: Error: USER00002
+30-07-2019 14:22:45:Json Array:0:DNGID: Error: R001

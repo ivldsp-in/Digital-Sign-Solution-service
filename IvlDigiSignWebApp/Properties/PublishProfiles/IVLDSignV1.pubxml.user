@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\IvlDSign_Publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/itextsharp.dll">
+      <publishTime>09/25/2018 11:49:38</publishTime>
+    </File>
+    <File Include="bin/IvlDigiSignWebApp.dll">
+      <publishTime>10/13/2021 14:40:23</publishTime>
+    </File>
+    <File Include="bin/IvlDigiSignWebApp.pdb">
+      <publishTime>10/13/2021 14:40:23</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>06/15/2015 02:06:24</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>07/12/2018 23:39:56</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.pdb">
+      <publishTime>07/12/2018 23:39:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="DataFiles/xmlDigitalSignatureMaster.xml">
+      <publishTime>08/12/2021 12:10:42</publishTime>
+    </File>
+    <File Include="DataFiles/xmlDocumentMaster.xml">
+      <publishTime>11/01/2019 15:01:52</publishTime>
+    </File>
+    <File Include="DataFiles/xmlDocumentParameterUserDigitalSignatureMapping.xml">
+      <publishTime>08/12/2021 12:09:16</publishTime>
+    </File>
+    <File Include="DataFiles/xmlParameterMaster.xml">
+      <publishTime>03/29/2019 15:09:22</publishTime>
+    </File>
+    <File Include="DataFiles/xmlUserMaster.xml">
+      <publishTime>07/29/2020 12:05:27</publishTime>
+    </File>
+    <File Include="Doc/DigiSignDoc.xlsx">
+      <publishTime>01/25/2019 12:38:24</publishTime>
+    </File>
+    <File Include="Doc/DigiSignTestData.txt">
+      <publishTime>08/12/2021 13:19:27</publishTime>
+    </File>
+    <File Include="Doc/Digi_sign/IMG-20190102-WA0001.jpg">
+      <publishTime>09/01/2019 15:47:42</publishTime>
+    </File>
+    <File Include="Doc/Digi_sign/IMG-20190102-WA0002.jpg">
+      <publishTime>09/01/2019 15:47:42</publishTime>
+    </File>
+    <File Include="Doc/DS Details.txt">
+      <publishTime>01/17/2019 18:38:46</publishTime>
+    </File>
+    <File Include="Doc/SignLocation.txt">
+      <publishTime>01/24/2019 13:48:06</publishTime>
+    </File>
+    <File Include="Doc/Webservice Input Output V2.3.xlsx">
+      <publishTime>01/17/2019 18:50:50</publishTime>
+    </File>
+    <File Include="eSignWebService.asmx">
+      <publishTime>08/01/2019 14:45:56</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>08/01/2019 14:30:46</publishTime>
+    </File>
+    <File Include="icon.ico">
+      <publishTime>08/01/2019 19:50:46</publishTime>
+    </File>
+    <File Include="Image/icon.ico">
+      <publishTime>08/01/2019 19:49:50</publishTime>
+    </File>
+    <File Include="Image/IVL_Logo.png">
+      <publishTime>03/25/2019 13:05:38</publishTime>
+    </File>
+    <File Include="Image/logo.png">
+      <publishTime>08/01/2019 15:37:54</publishTime>
+    </File>
+    <File Include="Image/logo1.png">
+      <publishTime>08/01/2019 15:37:54</publishTime>
+    </File>
+    <File Include="Log/IVL_DigiSignWeb_ErrorLog_On_08 April 2019.txt">
+      <publishTime>04/08/2019 18:48:56</publishTime>
+    </File>
+    <File Include="Log/IVL_DigiSignWeb_ErrorLog_On_09 April 2019.txt">
+      <publishTime>04/09/2019 11:15:24</publishTime>
+    </File>
+    <File Include="Log/IVL_DigiSignWeb_ErrorLog_On_26 February 2020.txt">
+      <publishTime>02/26/2020 15:50:00</publishTime>
+    </File>
+    <File Include="Log/IVL_DigiSignWeb_ErrorLog_On_29 July 2019.txt">
+      <publishTime>07/29/2019 20:57:18</publishTime>
+    </File>
+    <File Include="Log/IVL_DigiSignWeb_ErrorLog_On_30 July 2019.txt">
+      <publishTime>07/30/2019 14:22:46</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>06/08/2020 21:35:33</publishTime>
+    </File>
+    <File Include="PdfFiles/In/InPdf02032020145805.pdf">
+      <publishTime>03/02/2020 14:58:05</publishTime>
+    </File>
+    <File Include="PdfFiles/In/InPdf08042019183632.pdf">
+      <publishTime>04/08/2019 18:36:32</publishTime>
+    </File>
+    <File Include="PdfFiles/In/InPdf08042019183730.pdf">
+      <publishTime>04/08/2019 18:37:30</publishTime>
+    </File>
+    <File Include="PdfFiles/In/InPdf08042019184021.pdf">
+      <publishTime>04/08/2019 18:40:21</publishTime>
+    </File>
+    <File Include="PdfFiles/In/InPdf08042019184115.pdf">
+      <publishTime>04/08/2019 18:41:15</publishTime>
+    </File>
+    <File Include="PdfFiles/In/InPdf08042019184450.pdf">
+      <publishTime>04/08/2019 18:44:50</publishTime>
+    </File>
+    <File Include="PdfFiles/In/InPdf08042019184549.pdf">
+      <publishTime>04/08/2019 18:46:03</publishTime>
+    </File>
+    <File Include="PdfFiles/In/InPdf08042019184857.pdf">
+      <publishTime>04/08/2019 18:48:59</publishTime>
+    </File>
+    <File Include="PdfFiles/In/InPdf09042019110845.pdf">
+      <publishTime>04/09/2019 11:08:45</publishTime>
+    </File>
+    <File Include="PdfFiles/In/InPdf09042019111522.pdf">
+      <publishTime>04/09/2019 11:15:22</publishTime>
+    </File>
+    <File Include="PdfFiles/In/InPdf2222019112804AM.pdf">
+      <publishTime>02/22/2019 11:28:17</publishTime>
+    </File>
+    <File Include="PdfFiles/In/InPdf2222019113610AM.pdf">
+      <publishTime>02/22/2019 11:36:18</publishTime>
+    </File>
+    <File Include="PdfFiles/In/InPdf2252019111228AM.pdf">
+      <publishTime>02/25/2019 11:12:51</publishTime>
+    </File>
+    <File Include="PdfFiles/In/InPdf2252019111355AM.pdf">
+      <publishTime>02/25/2019 11:14:02</publishTime>
+    </File>
+    <File Include="PdfFiles/In/InPdf2252019114852AM.pdf">
+      <publishTime>02/25/2019 11:48:58</publishTime>
+    </File>
+    <File Include="PdfFiles/In/InPdf26022020154914.pdf">
+      <publishTime>02/26/2020 15:49:14</publishTime>
+    </File>
+    <File Include="PdfFiles/In/InPdf26022020154959.pdf">
+      <publishTime>02/26/2020 15:49:59</publishTime>
+    </File>
+    <File Include="PdfFiles/In/InPdf27022020123221.pdf">
+      <publishTime>02/27/2020 12:32:21</publishTime>
+    </File>
+    <File Include="PdfFiles/In/InPdf27022020123235.pdf">
+      <publishTime>02/27/2020 12:32:35</publishTime>
+    </File>
+    <File Include="PdfFiles/In/InPdf27022020124855.pdf">
+      <publishTime>02/27/2020 12:48:55</publishTime>
+    </File>
+    <File Include="PdfFiles/In/InPdf29072019190705.pdf">
+      <publishTime>07/29/2019 19:07:09</publishTime>
+    </File>
+    <File Include="PdfFiles/In/InPdf29072019191359.pdf">
+      <publishTime>07/29/2019 19:14:08</publishTime>
+    </File>
+    <File Include="PdfFiles/In/InPdf29072019191552.pdf">
+      <publishTime>07/29/2019 19:15:57</publishTime>
+    </File>
+    <File Include="PdfFiles/In/InPdf29072019192010.pdf">
+      <publishTime>07/29/2019 19:20:13</publishTime>
+    </File>
+    <File Include="PdfFiles/In/InPdf29072019195546.pdf">
+      <publishTime>07/29/2019 19:55:46</publishTime>
+    </File>
+    <File Include="PdfFiles/In/InPdf29072019200103.pdf">
+      <publishTime>07/29/2019 20:01:03</publishTime>
+    </File>
+    <File Include="PdfFiles/In/InPdf29072019200137.pdf">
+      <publishTime>07/29/2019 20:01:37</publishTime>
+    </File>
+    <File Include="PdfFiles/In/InPdf29072019201559.pdf">
+      <publishTime>07/29/2019 20:15:59</publishTime>
+    </File>
+    <File Include="PdfFiles/In/InPdf29072019201643.pdf">
+      <publishTime>07/29/2019 20:16:43</publishTime>
+    </File>
+    <File Include="PdfFiles/In/InPdf29072019203156.pdf">
+      <publishTime>07/29/2019 20:31:56</publishTime>
+    </File>
+    <File Include="PdfFiles/In/InPdf29072019203320.pdf">
+      <publishTime>07/29/2019 20:33:20</publishTime>
+    </File>
+    <File Include="PdfFiles/In/InPdf29072019203408.pdf">
+      <publishTime>07/29/2019 20:34:08</publishTime>
+    </File>
+    <File Include="PdfFiles/In/InPdf29072019203502.pdf">
+      <publishTime>07/29/2019 20:35:02</publishTime>
+    </File>
+    <File Include="PdfFiles/In/InPdf29072019204929.pdf">
+      <publishTime>07/29/2019 20:49:31</publishTime>
+    </File>
+    <File Include="PdfFiles/In/InPdf29072019205526.pdf">
+      <publishTime>07/29/2019 20:55:26</publishTime>
+    </File>
+    <File Include="PdfFiles/In/InPdf29072019205717.pdf">
+      <publishTime>07/29/2019 20:57:17</publishTime>
+    </File>
+    <File Include="PdfFiles/In/InPdf30072019141941.pdf">
+      <publishTime>07/30/2019 14:19:41</publishTime>
+    </File>
+    <File Include="PdfFiles/In/InPdf30072019142245.pdf">
+      <publishTime>07/30/2019 14:22:45</publishTime>
+    </File>
+    <File Include="PdfFiles/In/INV-000106 %286%29.pdf">
+      <publishTime>01/08/2019 15:10:52</publishTime>
+    </File>
+    <File Include="PdfFiles/In/TestPdf1232019115003AM.pdf">
+      <publishTime>01/23/2019 11:50:04</publishTime>
+    </File>
+    <File Include="PdfFiles/In/TestPdf1232019115203AM.pdf">
+      <publishTime>01/23/2019 11:52:06</publishTime>
+    </File>
+    <File Include="PdfFiles/Out/OutPdf02032020145805.pdf">
+      <publishTime>03/02/2020 14:58:14</publishTime>
+    </File>
+    <File Include="PdfFiles/Out/OutPdf26022020154959.pdf">
+      <publishTime>02/26/2020 15:50:02</publishTime>
+    </File>
+    <File Include="PdfFiles/Out/OutPdf27022020123235.pdf">
+      <publishTime>02/27/2020 12:32:44</publishTime>
+    </File>
+    <File Include="PdfFiles/Out/OutPdf29072019201559.pdf">
+      <publishTime>07/29/2019 20:16:02</publishTime>
+    </File>
+    <File Include="PdfFiles/Out/OutPdf29072019201643.pdf">
+      <publishTime>07/29/2019 20:16:46</publishTime>
+    </File>
+    <File Include="PdfFiles/Out/OutPdf29072019203156.pdf">
+      <publishTime>07/29/2019 20:31:59</publishTime>
+    </File>
+    <File Include="PdfFiles/Out/OutPdf29072019203320.pdf">
+      <publishTime>07/29/2019 20:33:22</publishTime>
+    </File>
+    <File Include="PdfFiles/Out/OutPdf29072019203408.pdf">
+      <publishTime>07/29/2019 20:34:11</publishTime>
+    </File>
+    <File Include="PdfFiles/Out/OutPdf29072019203502.pdf">
+      <publishTime>07/29/2019 20:35:06</publishTime>
+    </File>
+    <File Include="PdfFiles/Out/OutPdf29072019204929.pdf">
+      <publishTime>07/29/2019 20:50:18</publishTime>
+    </File>
+    <File Include="PdfFiles/Out/OutPdf29072019205526.pdf">
+      <publishTime>07/29/2019 20:55:29</publishTime>
+    </File>
+    <File Include="PdfFiles/Out/OutPdf29072019205717.pdf">
+      <publishTime>07/29/2019 20:57:21</publishTime>
+    </File>
+    <File Include="PdfFiles/Out/OutPdf30072019142245.pdf">
+      <publishTime>07/30/2019 14:22:48</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/19/2021 22:11:26</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

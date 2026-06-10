@@ -1,0 +1,25 @@
+  PdfFormField addMultiAnnotationSignatureField(PdfStamper pdfStamper, String name, float llx, float lly, float urx, float ury) 
+    { 
+        PdfWriter pdfStamperImp = pdfStamper.getWriter(); 
+        PdfAcroForm acroForm = pdfStamperImp.getAcroForm(); 
+
+        PdfFormField signature = PdfFormField.createSignature(pdfStamperImp); 
+        signature.setFieldName(name); 
+        
+        for (int page = pdfStamper.getReader().getNumberOfPages(); page > 0 ; page--) 
+        { 
+            PdfFormField annotation = createAnnotation(pdfStamperImp); 
+            acroForm.setSignatureParams(annotation, null, llx, lly, urx, ury); 
+            acroForm.drawSignatureAppearences(annotation, llx, lly, urx, ury); 
+            annotation.setPlaceInPage(page); 
+            annotation.setPage(page); 
+            annotation.remove(PdfName.FT); 
+            signature.addKid(annotation); 
+            llx += page * 5; 
+            lly += page * 5; 
+            urx += page * 10; 
+            ury += page * 10; 
+        } 
+        pdfStamper.addAnnotation(signature, 1); 
+        return signature; 
+    } 

@@ -1,0 +1,170 @@
+E:\TestWork_HBS\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\csc.exe
+E:\TestWork_HBS\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\TestWork_HBS\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\TestWork_HBS\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\TestWork_HBS\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\TestWork_HBS\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\TestWork_HBS\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\TestWork_HBS\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\System.Collections.Immutable.dll
+E:\TestWork_HBS\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\System.Reflection.Metadata.dll
+E:\TestWork_HBS\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\vbc.exe
+E:\TestWork_HBS\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\VBCSCompiler.exe
+E:\TestWork_HBS\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\VBCSCompiler.exe.config
+E:\TestWork_HBS\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\IvlDigiSignWebApp.dll.config
+E:\TestWork_HBS\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\IvlDigiSignWebApp.dll
+E:\TestWork_HBS\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\IvlDigiSignWebApp.pdb
+E:\TestWork_HBS\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\TestWork_HBS\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\Newtonsoft.Json.dll
+E:\TestWork_HBS\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\TestWork_HBS\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\Newtonsoft.Json.pdb
+E:\TestWork_HBS\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\Newtonsoft.Json.xml
+E:\TestWork_HBS\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\obj\Debug\IvlDigiSignWebApp.dll
+E:\TestWork_HBS\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\obj\Debug\IvlDigiSignWebApp.pdb
+E:\TestWork_HBS\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\obj\Debug\IvlDigiSignWebApp.csprojResolveAssemblyReference.cache
+E:\IVL_2019\DigiSignV1.3\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\csc.exe
+E:\IVL_2019\DigiSignV1.3\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\IVL_2019\DigiSignV1.3\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\IVL_2019\DigiSignV1.3\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\IVL_2019\DigiSignV1.3\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\IVL_2019\DigiSignV1.3\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\IVL_2019\DigiSignV1.3\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\IVL_2019\DigiSignV1.3\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\System.Collections.Immutable.dll
+E:\IVL_2019\DigiSignV1.3\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\System.Reflection.Metadata.dll
+E:\IVL_2019\DigiSignV1.3\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\vbc.exe
+E:\IVL_2019\DigiSignV1.3\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\VBCSCompiler.exe
+E:\IVL_2019\DigiSignV1.3\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\VBCSCompiler.exe.config
+E:\IVL_2019\DigiSignV1.3\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\IvlDigiSignWebApp.dll.config
+E:\IVL_2019\DigiSignV1.3\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\IvlDigiSignWebApp.dll
+E:\IVL_2019\DigiSignV1.3\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\IvlDigiSignWebApp.pdb
+E:\IVL_2019\DigiSignV1.3\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\IVL_2019\DigiSignV1.3\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\Newtonsoft.Json.dll
+E:\IVL_2019\DigiSignV1.3\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\IVL_2019\DigiSignV1.3\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\Newtonsoft.Json.pdb
+E:\IVL_2019\DigiSignV1.3\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\Newtonsoft.Json.xml
+E:\IVL_2019\DigiSignV1.3\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\obj\Debug\IvlDigiSignWebApp.dll
+E:\IVL_2019\DigiSignV1.3\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\obj\Debug\IvlDigiSignWebApp.pdb
+E:\IVL_2019\DigiSignV1.3\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\obj\Debug\IvlDigiSignWebApp.csprojResolveAssemblyReference.cache
+C:\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\csc.exe
+C:\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\vbc.exe
+C:\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\VBCSCompiler.exe
+C:\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\IvlDigiSignWebApp.dll.config
+C:\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\IvlDigiSignWebApp.dll
+C:\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\IvlDigiSignWebApp.pdb
+C:\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\Newtonsoft.Json.dll
+C:\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\Newtonsoft.Json.pdb
+C:\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\Newtonsoft.Json.xml
+C:\IvlDigiSignWebApp\IvlDigiSignWebApp\obj\Debug\IvlDigiSignWebApp.csprojAssemblyReference.cache
+C:\IvlDigiSignWebApp\IvlDigiSignWebApp\obj\Debug\IvlDigiSignWebApp.csproj.CopyComplete
+C:\IvlDigiSignWebApp\IvlDigiSignWebApp\obj\Debug\IvlDigiSignWebApp.dll
+C:\IvlDigiSignWebApp\IvlDigiSignWebApp\obj\Debug\IvlDigiSignWebApp.pdb
+D:\OptiSign\OptiSignGIT\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\csc.exe
+D:\OptiSign\OptiSignGIT\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\OptiSign\OptiSignGIT\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\OptiSign\OptiSignGIT\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\OptiSign\OptiSignGIT\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\OptiSign\OptiSignGIT\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\OptiSign\OptiSignGIT\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\OptiSign\OptiSignGIT\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\System.Collections.Immutable.dll
+D:\OptiSign\OptiSignGIT\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\OptiSign\OptiSignGIT\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\vbc.exe
+D:\OptiSign\OptiSignGIT\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\VBCSCompiler.exe
+D:\OptiSign\OptiSignGIT\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\VBCSCompiler.exe.config
+D:\OptiSign\OptiSignGIT\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\IvlDigiSignWebApp.dll.config
+D:\OptiSign\OptiSignGIT\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\IvlDigiSignWebApp.dll
+D:\OptiSign\OptiSignGIT\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\IvlDigiSignWebApp.pdb
+D:\OptiSign\OptiSignGIT\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\OptiSign\OptiSignGIT\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\Newtonsoft.Json.dll
+D:\OptiSign\OptiSignGIT\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\OptiSign\OptiSignGIT\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\Newtonsoft.Json.pdb
+D:\OptiSign\OptiSignGIT\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\Newtonsoft.Json.xml
+D:\OptiSign\OptiSignGIT\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\obj\Debug\IvlDigiSignWebApp.csproj.CoreCompileInputs.cache
+D:\OptiSign\OptiSignGIT\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\obj\Debug\IvlDigiSignWebApp.csproj.CopyComplete
+D:\OptiSign\OptiSignGIT\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\obj\Debug\IvlDigiSignWebApp.dll
+D:\OptiSign\OptiSignGIT\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\obj\Debug\IvlDigiSignWebApp.pdb
+D:\OptiSign\OptiSignGIT\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\obj\Debug\IvlDigiSignWebApp.csprojAssemblyReference.cache
+D:\IVL Project\OptiSign\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\csc.exe
+D:\IVL Project\OptiSign\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IVL Project\OptiSign\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IVL Project\OptiSign\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IVL Project\OptiSign\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IVL Project\OptiSign\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IVL Project\OptiSign\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IVL Project\OptiSign\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\System.Collections.Immutable.dll
+D:\IVL Project\OptiSign\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\IVL Project\OptiSign\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\vbc.exe
+D:\IVL Project\OptiSign\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\VBCSCompiler.exe
+D:\IVL Project\OptiSign\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\VBCSCompiler.exe.config
+D:\IVL Project\OptiSign\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\IvlDigiSignWebApp.dll.config
+D:\IVL Project\OptiSign\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\IvlDigiSignWebApp.dll
+D:\IVL Project\OptiSign\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\IvlDigiSignWebApp.pdb
+D:\IVL Project\OptiSign\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IVL Project\OptiSign\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\Newtonsoft.Json.dll
+D:\IVL Project\OptiSign\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IVL Project\OptiSign\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\Newtonsoft.Json.pdb
+D:\IVL Project\OptiSign\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\Newtonsoft.Json.xml
+D:\IVL Project\OptiSign\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\obj\Debug\IvlDigiSignWebApp.csproj.CoreCompileInputs.cache
+D:\IVL Project\OptiSign\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\obj\Debug\IvlDigiSignWebApp.csproj.CopyComplete
+D:\IVL Project\OptiSign\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\obj\Debug\IvlDigiSignWebApp.dll
+D:\IVL Project\OptiSign\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\obj\Debug\IvlDigiSignWebApp.pdb
+D:\IVL Project\OptiSign\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\obj\Debug\IvlDigiSignWebApp.csproj.AssemblyReference.cache
+D:\IVL Project\OptiSign\optisign_projects\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\obj\Debug\IvlDigiSignWebApp.csproj.AssemblyReference.cache
+D:\IVL Project\OptiSign\optisign_projects\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\obj\Debug\IvlDigiSignWebApp.csproj.CoreCompileInputs.cache
+D:\IVL Project\OptiSign\optisign_projects\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\csc.exe
+D:\IVL Project\OptiSign\optisign_projects\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IVL Project\OptiSign\optisign_projects\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IVL Project\OptiSign\optisign_projects\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IVL Project\OptiSign\optisign_projects\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IVL Project\OptiSign\optisign_projects\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IVL Project\OptiSign\optisign_projects\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IVL Project\OptiSign\optisign_projects\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\System.Collections.Immutable.dll
+D:\IVL Project\OptiSign\optisign_projects\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\IVL Project\OptiSign\optisign_projects\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\vbc.exe
+D:\IVL Project\OptiSign\optisign_projects\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\VBCSCompiler.exe
+D:\IVL Project\OptiSign\optisign_projects\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\roslyn\VBCSCompiler.exe.config
+D:\IVL Project\OptiSign\optisign_projects\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\IvlDigiSignWebApp.dll.config
+D:\IVL Project\OptiSign\optisign_projects\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\IvlDigiSignWebApp.dll
+D:\IVL Project\OptiSign\optisign_projects\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\IvlDigiSignWebApp.pdb
+D:\IVL Project\OptiSign\optisign_projects\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IVL Project\OptiSign\optisign_projects\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\Newtonsoft.Json.dll
+D:\IVL Project\OptiSign\optisign_projects\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IVL Project\OptiSign\optisign_projects\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\Newtonsoft.Json.pdb
+D:\IVL Project\OptiSign\optisign_projects\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\bin\Newtonsoft.Json.xml
+D:\IVL Project\OptiSign\optisign_projects\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\obj\Debug\IvlDigiS.24981082.Up2Date
+D:\IVL Project\OptiSign\optisign_projects\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\obj\Debug\IvlDigiSignWebApp.dll
+D:\IVL Project\OptiSign\optisign_projects\ceat\IvlDigiSignWebApp\IvlDigiSignWebApp\obj\Debug\IvlDigiSignWebApp.pdb
+D:\IVL Project\OptiSign\optisign_projects\ceat\github-version\IvlDigiSignWebApp\bin\roslyn\csc.exe
+D:\IVL Project\OptiSign\optisign_projects\ceat\github-version\IvlDigiSignWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IVL Project\OptiSign\optisign_projects\ceat\github-version\IvlDigiSignWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IVL Project\OptiSign\optisign_projects\ceat\github-version\IvlDigiSignWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IVL Project\OptiSign\optisign_projects\ceat\github-version\IvlDigiSignWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IVL Project\OptiSign\optisign_projects\ceat\github-version\IvlDigiSignWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IVL Project\OptiSign\optisign_projects\ceat\github-version\IvlDigiSignWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IVL Project\OptiSign\optisign_projects\ceat\github-version\IvlDigiSignWebApp\bin\roslyn\System.Collections.Immutable.dll
+D:\IVL Project\OptiSign\optisign_projects\ceat\github-version\IvlDigiSignWebApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\IVL Project\OptiSign\optisign_projects\ceat\github-version\IvlDigiSignWebApp\bin\roslyn\vbc.exe
+D:\IVL Project\OptiSign\optisign_projects\ceat\github-version\IvlDigiSignWebApp\bin\roslyn\VBCSCompiler.exe
+D:\IVL Project\OptiSign\optisign_projects\ceat\github-version\IvlDigiSignWebApp\bin\roslyn\VBCSCompiler.exe.config
+D:\IVL Project\OptiSign\optisign_projects\ceat\github-version\IvlDigiSignWebApp\bin\IvlDigiSignWebApp.dll.config
+D:\IVL Project\OptiSign\optisign_projects\ceat\github-version\IvlDigiSignWebApp\bin\IvlDigiSignWebApp.dll
+D:\IVL Project\OptiSign\optisign_projects\ceat\github-version\IvlDigiSignWebApp\bin\IvlDigiSignWebApp.pdb
+D:\IVL Project\OptiSign\optisign_projects\ceat\github-version\IvlDigiSignWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IVL Project\OptiSign\optisign_projects\ceat\github-version\IvlDigiSignWebApp\bin\Newtonsoft.Json.dll
+D:\IVL Project\OptiSign\optisign_projects\ceat\github-version\IvlDigiSignWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IVL Project\OptiSign\optisign_projects\ceat\github-version\IvlDigiSignWebApp\bin\Newtonsoft.Json.pdb
+D:\IVL Project\OptiSign\optisign_projects\ceat\github-version\IvlDigiSignWebApp\bin\Newtonsoft.Json.xml
+D:\IVL Project\OptiSign\optisign_projects\ceat\github-version\IvlDigiSignWebApp\obj\Debug\IvlDigiSignWebApp.csproj.AssemblyReference.cache
+D:\IVL Project\OptiSign\optisign_projects\ceat\github-version\IvlDigiSignWebApp\obj\Debug\IvlDigiSignWebApp.csproj.CoreCompileInputs.cache
+D:\IVL Project\OptiSign\optisign_projects\ceat\github-version\IvlDigiSignWebApp\obj\Debug\IvlDigiS.24981082.Up2Date
+D:\IVL Project\OptiSign\optisign_projects\ceat\github-version\IvlDigiSignWebApp\obj\Debug\IvlDigiSignWebApp.dll
+D:\IVL Project\OptiSign\optisign_projects\ceat\github-version\IvlDigiSignWebApp\obj\Debug\IvlDigiSignWebApp.pdb

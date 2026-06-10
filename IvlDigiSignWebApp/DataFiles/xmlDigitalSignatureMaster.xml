@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DigitalSignatureMaster>
+ 
+  
+  <DigitalSignatureDetails DSId="R001" UserId="USER00002" >
+    <DigitalSignature DigntalSignatureOriginalId="4796759"  OName="DS TEST LIMITED 1" SPIN="123"
+                      OPlace="" OAddress="" OPinCode="123123" OState="Kerala" OCountry="IN" OOrgName=" test" >
+      
+    </DigitalSignature>
+    <Issuer IName="test" IPlace="Bodakdev, S G Road, Ahmedabad" IAddress="" 
+              IPinCode="123123" IState="Gujarat" ICountry="IN" IOrgName=""></Issuer>
+  </DigitalSignatureDetails>
+ 
+
+</DigitalSignatureMaster>

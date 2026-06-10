@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Ceat</_PublishTargetUrl>
+    <History>True|2025-03-06T07:41:11.2093898Z||;True|2025-03-06T13:03:58.8822394+05:30||;True|2025-01-31T15:14:42.0316337+05:30||;True|2025-01-31T14:49:19.2787294+05:30||;True|2025-01-31T14:48:22.4777274+05:30||;True|2025-01-31T14:41:47.5957200+05:30||;True|2025-01-31T14:41:44.7159489+05:30||;True|2025-01-31T14:37:19.6225926+05:30||;True|2023-09-12T16:22:54.3246967+05:30||;True|2023-09-12T16:20:23.9122969+05:30||;True|2023-09-05T17:53:26.5991225+05:30||;True|2023-09-05T17:52:58.8764154+05:30||;True|2023-08-04T19:30:15.5267902+05:30||;True|2022-08-09T18:17:25.4340979+05:30||;True|2022-08-08T14:19:49.7487085+05:30||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/itextsharp.dll">
+      <publishTime>03/11/2022 22:59:21</publishTime>
+    </File>
+    <File Include="bin/IvlDigiSignWebApp.dll">
+      <publishTime>03/06/2025 13:11:10</publishTime>
+    </File>
+    <File Include="bin/IvlDigiSignWebApp.pdb">
+      <publishTime>03/06/2025 13:11:10</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>03/11/2022 22:59:22</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>03/11/2022 22:59:22</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.pdb">
+      <publishTime>03/11/2022 22:59:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>03/11/2022 22:59:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>03/11/2022 22:59:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>03/11/2022 22:59:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>03/11/2022 22:59:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>03/11/2022 22:59:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>03/11/2022 22:59:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>03/11/2022 22:59:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>03/11/2022 22:59:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>03/11/2022 22:59:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>03/11/2022 22:59:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>03/11/2022 22:59:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>03/11/2022 22:59:22</publishTime>
+    </File>
+    <File Include="DataFiles/xmlDigitalSignatureMaster.xml">
+      <publishTime>06/02/2021 10:55:15</publishTime>
+    </File>
+    <File Include="DataFiles/xmlDocumentMaster.xml">
+      <publishTime>01/11/2019 15:01:52</publishTime>
+    </File>
+    <File Include="DataFiles/xmlDocumentParameterUserDigitalSignatureMapping.xml">
+      <publishTime>06/03/2021 11:17:46</publishTime>
+    </File>
+    <File Include="DataFiles/xmlParameterMaster.xml">
+      <publishTime>03/29/2019 15:09:22</publishTime>
+    </File>
+    <File Include="DataFiles/xmlSingaturyMapping.xml">
+      <publishTime>08/06/2022 22:51:36</publishTime>
+    </File>
+    <File Include="DataFiles/xmlUserMaster.xml">
+      <publishTime>05/31/2021 18:52:07</publishTime>
+    </File>
+    <File Include="Doc/DigiSignDoc.xlsx">
+      <publishTime>03/11/2022 22:59:21</publishTime>
+    </File>
+    <File Include="Doc/DigiSignTestData.txt">
+      <publishTime>03/11/2022 22:59:21</publishTime>
+    </File>
+    <File Include="Doc/Digi_sign/IMG-20190102-WA0001.jpg">
+      <publishTime>03/11/2022 22:59:21</publishTime>
+    </File>
+    <File Include="Doc/Digi_sign/IMG-20190102-WA0002.jpg">
+      <publishTime>03/11/2022 22:59:21</publishTime>
+    </File>
+    <File Include="Doc/DS Details.txt">
+      <publishTime>03/11/2022 22:59:21</publishTime>
+    </File>
+    <File Include="Doc/SignLocation.txt">
+      <publishTime>03/11/2022 22:59:21</publishTime>
+    </File>
+    <File Include="Doc/Webservice Input Output V2.3.xlsx">
+      <publishTime>03/11/2022 22:59:21</publishTime>
+    </File>
+    <File Include="eSignWebService.asmx">
+      <publishTime>03/11/2022 22:59:21</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>03/11/2022 22:59:21</publishTime>
+    </File>
+    <File Include="icon.ico">
+      <publishTime>03/11/2022 22:59:21</publishTime>
+    </File>
+    <File Include="Image/icon.ico">
+      <publishTime>03/11/2022 22:59:21</publishTime>
+    </File>
+    <File Include="Image/IVL_Logo.png">
+      <publishTime>03/11/2022 22:59:21</publishTime>
+    </File>
+    <File Include="Image/logo.png">
+      <publishTime>03/11/2022 22:59:21</publishTime>
+    </File>
+    <File Include="Image/logo1.png">
+      <publishTime>03/11/2022 22:59:21</publishTime>
+    </File>
+    <File Include="Log/IVL_DigiSignWeb_ErrorLog_On_08 April 2019.txt">
+      <publishTime>03/11/2022 22:59:21</publishTime>
+    </File>
+    <File Include="Log/IVL_DigiSignWeb_ErrorLog_On_09 April 2019.txt">
+      <publishTime>03/11/2022 22:59:21</publishTime>
+    </File>
+    <File Include="Log/IVL_DigiSignWeb_ErrorLog_On_26 February 2020.txt">
+      <publishTime>03/11/2022 22:59:21</publishTime>
+    </File>
+    <File Include="Log/IVL_DigiSignWeb_ErrorLog_On_29 July 2019.txt">
+      <publishTime>03/11/2022 22:59:21</publishTime>
+    </File>
+    <File Include="Log/IVL_DigiSignWeb_ErrorLog_On_30 July 2019.txt">
+      <publishTime>03/11/2022 22:59:21</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>01/30/2025 22:23:25</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/31/2025 14:37:19</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

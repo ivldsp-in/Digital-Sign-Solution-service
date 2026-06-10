@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ParameterMaster>
+  <ParameterDetails> 
+    <Parameter  DocId ="1" ParameterId="1" Name="Test" ValidFrom="" ValidTo="" ParameterCondition="" CurrencyKey="" BaseUnitOfMeasurement="" ></Parameter>
+	 
+  </ParameterDetails>
+  
+</ParameterMaster>

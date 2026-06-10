@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<UserMaster>
+		<User DocId="C001" USERID="USER00001" UNAME="DS TEST LIMITED 1" Designation="Director" Location="Trivandrum" UTYP="Personal" Country="IN" State="Kerala" PinCode="686604" ></User>
+		<User DocId="C001" USERID="USER00002" UNAME="DS TEST LIMITED 1"  Designation="Accountant Manager" Location="Trivandrum" UTYP="Personal" Country="IN"  State="Kerala" PinCode="686604" ></User>
+		<User DocId="C001" USERID="USER00003" UNAME="DS TEST LIMITED 1"  Designation="Accountant Manager" Location="Trivandrum" UTYP="Personal" Country="IN"  State="Kerala" PinCode="686604" ></User>
+		<User DocId="C001" USERID="USER00004" UNAME="DS TEST LIMITED 1"  Designation="Accountant Manager" Location="Trivandrum" UTYP="Personal" Country="IN"  State="Kerala" PinCode="686604" ></User>
+    		
+</UserMaster>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SignaturyDetails>
+	<SignCategory CompanyCode="TEST" TokenOrSlotLabel="Test" TokenOrSlotPin="123" CertificateOrKeyLabel="DS TEST LIMITED 1"> </SignCategory> 
+</SignaturyDetails>

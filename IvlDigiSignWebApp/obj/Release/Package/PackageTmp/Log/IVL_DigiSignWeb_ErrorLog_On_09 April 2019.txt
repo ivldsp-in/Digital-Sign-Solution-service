@@ -1,0 +1,10 @@
+09-04-2019 11:08:45::: Error: --------------------------------------------------------
+09-04-2019 11:08:45:Input Header:Docid: Error: C001
+09-04-2019 11:08:45:Input Header:Docdesc: Error: 
+09-04-2019 11:08:45:Input Header:Signtyp: Error: F
+09-04-2019 11:08:45:Input Header:Signmul: Error: 
+09-04-2019 11:15:22::: Error: --------------------------------------------------------
+09-04-2019 11:15:22:Input Header:Docid: Error: C001
+09-04-2019 11:15:22:Input Header:Docdesc: Error: 
+09-04-2019 11:15:22:Input Header:Signtyp: Error: F
+09-04-2019 11:15:22:Input Header:Signmul: Error: 

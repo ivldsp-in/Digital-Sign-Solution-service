@@ -1,0 +1,168 @@
+29-07-2019 19:06:46::: Error: --------------------------------------------------------
+29-07-2019 19:06:46:Input Header:Docid: Error: C001
+29-07-2019 19:06:47:Input Header:Docdesc: Error: 
+29-07-2019 19:06:47:Input Header:Signtyp: Error: F
+29-07-2019 19:06:47:Input Header:Signmul: Error: 
+29-07-2019 19:06:48:Json Array::PRMID: Error: [{"USERID":"USER00002","UTYP":"O","UNAME":"IVLDEV09","PRMID":"P001","DNGID":"R001","DNGST":"A","SEMAIL":"rine.m.a@ivldsp.com","SIGNTYP":""}]
+29-07-2019 19:06:49:Json Array:0:PRMID: Error: P001
+29-07-2019 19:06:49:Json Array:0:USERID: Error: USER00002
+29-07-2019 19:06:49:Json Array:0:DNGID: Error: R001
+29-07-2019 19:07:16:IvlDigiSign:SignPdfFromSmartCard: Error: Certificate is not valid
+29-07-2019 19:07:16:eSignWebService:GetSignedDoc2 : Convert signed pdf to Hex: Error: Could not find file 'E:\IVL_2019\DigiSignV1.3\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\PdfFiles\Out\OutPdf29072019190706.pdf'.
+29-07-2019 19:07:57::: Error: --------------------------------------------------------
+29-07-2019 19:07:57:Input Header:Docid: Error: R001
+29-07-2019 19:07:58:Input Header:Docdesc: Error: 
+29-07-2019 19:07:58:Input Header:Signtyp: Error: F
+29-07-2019 19:07:58:Input Header:Signmul: Error: 
+29-07-2019 19:07:58:Json Array::PRMID: Error: [{"USERID":"USER00002","UTYP":"O","UNAME":"IVLDEV09","PRMID":"P001","DNGID":"R001","DNGST":"A","SEMAIL":"rine.m.a@ivldsp.com","SIGNTYP":""}]
+29-07-2019 19:08:25:Json Array:0:PRMID: Error: P001
+29-07-2019 19:08:25:Json Array:0:USERID: Error: USER00002
+29-07-2019 19:08:26:Json Array:0:DNGID: Error: R001
+29-07-2019 19:14:09:eSignWebService:GetSignedDoc1: Error: Input string was not in a correct format.
+29-07-2019 19:14:09:eSignWebService:GetSignedDoc2 : Convert signed pdf to Hex: Error: Could not find file 'E:\IVL_2019\DigiSignV1.3\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\PdfFiles\Out\OutPdf29072019191359.pdf'.
+29-07-2019 19:15:21::: Error: --------------------------------------------------------
+29-07-2019 19:15:21:Input Header:Docid: Error: C001
+29-07-2019 19:15:23:Input Header:Docdesc: Error: 
+29-07-2019 19:15:23:Input Header:Signtyp: Error: F
+29-07-2019 19:15:23:Input Header:Signmul: Error: 
+29-07-2019 19:15:23:Json Array::PRMID: Error: [{"USERID":"USER00002","UTYP":"O","UNAME":"IVLDEV09","PRMID":"P001","DNGID":"R001","DNGST":"A","SEMAIL":"rine.m.a@ivldsp.com","SIGNTYP":""}]
+29-07-2019 19:15:24:Json Array:0:PRMID: Error: P001
+29-07-2019 19:15:24:Json Array:0:USERID: Error: USER00002
+29-07-2019 19:15:24:Json Array:0:DNGID: Error: R001
+29-07-2019 19:16:00:IvlDigiSign:SignPdfFromSmartCard: Error: Certificate is not valid
+29-07-2019 19:16:00:eSignWebService:GetSignedDoc2 : Convert signed pdf to Hex: Error: Could not find file 'E:\IVL_2019\DigiSignV1.3\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\PdfFiles\Out\OutPdf29072019191552.pdf'.
+29-07-2019 19:20:03::: Error: --------------------------------------------------------
+29-07-2019 19:20:03:Input Header:Docid: Error: C001
+29-07-2019 19:20:03:Input Header:Docdesc: Error: 
+29-07-2019 19:20:03:Input Header:Signtyp: Error: F
+29-07-2019 19:20:03:Input Header:Signmul: Error: 
+29-07-2019 19:20:03:Json Array::PRMID: Error: [{"USERID":"USER00002","UTYP":"O","UNAME":"IVLDEV09","PRMID":"P001","DNGID":"R001","DNGST":"A","SEMAIL":"rine.m.a@ivldsp.com","SIGNTYP":""}]
+29-07-2019 19:20:04:Json Array:0:PRMID: Error: P001
+29-07-2019 19:20:04:Json Array:0:USERID: Error: USER00002
+29-07-2019 19:20:04:Json Array:0:DNGID: Error: R001
+29-07-2019 19:55:46::: Error: --------------------------------------------------------
+29-07-2019 19:55:46:Input Header:Docid: Error: C001
+29-07-2019 19:55:46:Input Header:Docdesc: Error: 
+29-07-2019 19:55:46:Input Header:Signtyp: Error: F
+29-07-2019 19:55:46:Input Header:Signmul: Error: 
+29-07-2019 19:55:46:Json Array::PRMID: Error: [{"USERID":"USER00002","UTYP":"O","UNAME":"IVLDEV09","PRMID":"P001","DNGID":"R001","DNGST":"A","SEMAIL":"rine.m.a@ivldsp.com","SIGNTYP":""}]
+29-07-2019 19:55:46:Json Array:0:PRMID: Error: P001
+29-07-2019 19:55:46:Json Array:0:USERID: Error: USER00002
+29-07-2019 19:55:46:Json Array:0:DNGID: Error: R001
+29-07-2019 19:55:46:IvlDigiSign:SignPdfFromSmartCard: Error: Certificate is not valid
+29-07-2019 20:01:02::: Error: --------------------------------------------------------
+29-07-2019 20:01:02:Input Header:Docid: Error: C001
+29-07-2019 20:01:02:Input Header:Docdesc: Error: 
+29-07-2019 20:01:02:Input Header:Signtyp: Error: F
+29-07-2019 20:01:02:Input Header:Signmul: Error: 
+29-07-2019 20:01:02:Json Array::PRMID: Error: [{"USERID":"USER00002","UTYP":"O","UNAME":"IVLDEV09","PRMID":"P001","DNGID":"R001","DNGST":"A","SEMAIL":"rine.m.a@ivldsp.com","SIGNTYP":""}]
+29-07-2019 20:01:02:Json Array:0:PRMID: Error: P001
+29-07-2019 20:01:02:Json Array:0:USERID: Error: USER00002
+29-07-2019 20:01:02:Json Array:0:DNGID: Error: R001
+29-07-2019 20:01:03:IvlDigiSign:SignPdfFromSmartCard: Error: Certificate is not valid
+29-07-2019 20:01:05:IvlDigiSign:SignWithThisCert: Error: A signature image should be present when rendering mode is graphic and description.
+29-07-2019 20:01:05:IvlDigiSign:SignPdfFromSmartCard: Error: A signature image should be present when rendering mode is graphic and description.
+29-07-2019 20:01:05:eSignWebService:GetSignedDoc2 : Convert signed pdf to Hex: Error: The process cannot access the file 'E:\IVL_2019\DigiSignV1.3\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\PdfFiles\Out\OutPdf29072019200103.pdf' because it is being used by another process.
+29-07-2019 20:01:37::: Error: --------------------------------------------------------
+29-07-2019 20:01:37:Input Header:Docid: Error: C001
+29-07-2019 20:01:37:Input Header:Docdesc: Error: 
+29-07-2019 20:01:37:Input Header:Signtyp: Error: F
+29-07-2019 20:01:37:Input Header:Signmul: Error: 
+29-07-2019 20:01:37:Json Array::PRMID: Error: [{"USERID":"USER00002","UTYP":"O","UNAME":"IVLDEV09","PRMID":"P001","DNGID":"R001","DNGST":"A","SEMAIL":"rine.m.a@ivldsp.com","SIGNTYP":""}]
+29-07-2019 20:01:37:Json Array:0:PRMID: Error: P001
+29-07-2019 20:01:37:Json Array:0:USERID: Error: USER00002
+29-07-2019 20:01:37:Json Array:0:DNGID: Error: R001
+29-07-2019 20:01:37:IvlDigiSign:SignPdfFromSmartCard: Error: Certificate is not valid
+29-07-2019 20:01:37:IvlDigiSign:SignWithThisCert: Error: A signature image should be present when rendering mode is graphic and description.
+29-07-2019 20:01:37:IvlDigiSign:SignPdfFromSmartCard: Error: A signature image should be present when rendering mode is graphic and description.
+29-07-2019 20:01:37:eSignWebService:GetSignedDoc2 : Convert signed pdf to Hex: Error: The process cannot access the file 'E:\IVL_2019\DigiSignV1.3\IvlDigiSignWebApp\IvlDigiSignWebApp\IvlDigiSignWebApp\PdfFiles\Out\OutPdf29072019200137.pdf' because it is being used by another process.
+29-07-2019 20:15:59::: Error: --------------------------------------------------------
+29-07-2019 20:15:59:Input Header:Docid: Error: C001
+29-07-2019 20:15:59:Input Header:Docdesc: Error: 
+29-07-2019 20:15:59:Input Header:Signtyp: Error: F
+29-07-2019 20:15:59:Input Header:Signmul: Error: 
+29-07-2019 20:15:59:Json Array::PRMID: Error: [{"USERID":"USER00002","UTYP":"O","UNAME":"IVLDEV09","PRMID":"P001","DNGID":"R001","DNGST":"A","SEMAIL":"rine.m.a@ivldsp.com","SIGNTYP":""}]
+29-07-2019 20:15:59:Json Array:0:PRMID: Error: P001
+29-07-2019 20:15:59:Json Array:0:USERID: Error: USER00002
+29-07-2019 20:15:59:Json Array:0:DNGID: Error: R001
+29-07-2019 20:15:59:IvlDigiSign:SignPdfFromSmartCard: Error: Certificate is not valid
+29-07-2019 20:16:42::: Error: --------------------------------------------------------
+29-07-2019 20:16:42:Input Header:Docid: Error: C001
+29-07-2019 20:16:42:Input Header:Docdesc: Error: 
+29-07-2019 20:16:42:Input Header:Signtyp: Error: F
+29-07-2019 20:16:42:Input Header:Signmul: Error: 
+29-07-2019 20:16:42:Json Array::PRMID: Error: [{"USERID":"USER00002","UTYP":"O","UNAME":"IVLDEV09","PRMID":"P001","DNGID":"R001","DNGST":"A","SEMAIL":"rine.m.a@ivldsp.com","SIGNTYP":""}]
+29-07-2019 20:16:42:Json Array:0:PRMID: Error: P001
+29-07-2019 20:16:42:Json Array:0:USERID: Error: USER00002
+29-07-2019 20:16:42:Json Array:0:DNGID: Error: R001
+29-07-2019 20:16:43:IvlDigiSign:SignPdfFromSmartCard: Error: Certificate is not valid
+29-07-2019 20:31:55::: Error: --------------------------------------------------------
+29-07-2019 20:31:55:Input Header:Docid: Error: C001
+29-07-2019 20:31:55:Input Header:Docdesc: Error: 
+29-07-2019 20:31:55:Input Header:Signtyp: Error: F
+29-07-2019 20:31:55:Input Header:Signmul: Error: 
+29-07-2019 20:31:55:Json Array::PRMID: Error: [{"USERID":"USER00002","UTYP":"O","UNAME":"IVLDEV09","PRMID":"P001","DNGID":"R001","DNGST":"A","SEMAIL":"rine.m.a@ivldsp.com","SIGNTYP":""}]
+29-07-2019 20:31:55:Json Array:0:PRMID: Error: P001
+29-07-2019 20:31:55:Json Array:0:USERID: Error: USER00002
+29-07-2019 20:31:55:Json Array:0:DNGID: Error: R001
+29-07-2019 20:31:56:IvlDigiSign:SignPdfFromSmartCard: Error: Certificate is not valid
+29-07-2019 20:33:19::: Error: --------------------------------------------------------
+29-07-2019 20:33:19:Input Header:Docid: Error: C001
+29-07-2019 20:33:19:Input Header:Docdesc: Error: 
+29-07-2019 20:33:19:Input Header:Signtyp: Error: F
+29-07-2019 20:33:19:Input Header:Signmul: Error: 
+29-07-2019 20:33:19:Json Array::PRMID: Error: [{"USERID":"USER00002","UTYP":"O","UNAME":"IVLDEV09","PRMID":"P001","DNGID":"R001","DNGST":"A","SEMAIL":"rine.m.a@ivldsp.com","SIGNTYP":""}]
+29-07-2019 20:33:19:Json Array:0:PRMID: Error: P001
+29-07-2019 20:33:19:Json Array:0:USERID: Error: USER00002
+29-07-2019 20:33:19:Json Array:0:DNGID: Error: R001
+29-07-2019 20:33:20:IvlDigiSign:SignPdfFromSmartCard: Error: Certificate is not valid
+29-07-2019 20:34:08::: Error: --------------------------------------------------------
+29-07-2019 20:34:08:Input Header:Docid: Error: C001
+29-07-2019 20:34:08:Input Header:Docdesc: Error: 
+29-07-2019 20:34:08:Input Header:Signtyp: Error: F
+29-07-2019 20:34:08:Input Header:Signmul: Error: 
+29-07-2019 20:34:08:Json Array::PRMID: Error: [{"USERID":"USER00002","UTYP":"O","UNAME":"IVLDEV09","PRMID":"P001","DNGID":"R001","DNGST":"A","SEMAIL":"rine.m.a@ivldsp.com","SIGNTYP":""}]
+29-07-2019 20:34:08:Json Array:0:PRMID: Error: P001
+29-07-2019 20:34:08:Json Array:0:USERID: Error: USER00002
+29-07-2019 20:34:08:Json Array:0:DNGID: Error: R001
+29-07-2019 20:34:08:IvlDigiSign:SignPdfFromSmartCard: Error: Certificate is not valid
+29-07-2019 20:35:02::: Error: --------------------------------------------------------
+29-07-2019 20:35:02:Input Header:Docid: Error: C001
+29-07-2019 20:35:02:Input Header:Docdesc: Error: 
+29-07-2019 20:35:02:Input Header:Signtyp: Error: F
+29-07-2019 20:35:02:Input Header:Signmul: Error: 
+29-07-2019 20:35:02:Json Array::PRMID: Error: [{"USERID":"USER00002","UTYP":"O","UNAME":"IVLDEV09","PRMID":"P001","DNGID":"R001","DNGST":"A","SEMAIL":"rine.m.a@ivldsp.com","SIGNTYP":""}]
+29-07-2019 20:35:02:Json Array:0:PRMID: Error: P001
+29-07-2019 20:35:02:Json Array:0:USERID: Error: USER00002
+29-07-2019 20:35:02:Json Array:0:DNGID: Error: R001
+29-07-2019 20:35:03:IvlDigiSign:SignPdfFromSmartCard: Error: Certificate is not valid
+29-07-2019 20:49:24::: Error: --------------------------------------------------------
+29-07-2019 20:49:24:Input Header:Docid: Error: C001
+29-07-2019 20:49:24:Input Header:Docdesc: Error: 
+29-07-2019 20:49:24:Input Header:Signtyp: Error: F
+29-07-2019 20:49:24:Input Header:Signmul: Error: 
+29-07-2019 20:49:25:Json Array::PRMID: Error: [{"USERID":"USER00002","UTYP":"O","UNAME":"IVLDEV09","PRMID":"P001","DNGID":"R001","DNGST":"A","SEMAIL":"rine.m.a@ivldsp.com","SIGNTYP":""}]
+29-07-2019 20:49:26:Json Array:0:PRMID: Error: P001
+29-07-2019 20:49:26:Json Array:0:USERID: Error: USER00002
+29-07-2019 20:49:26:Json Array:0:DNGID: Error: R001
+29-07-2019 20:49:42:IvlDigiSign:SignPdfFromSmartCard: Error: Certificate is not valid
+29-07-2019 20:55:25::: Error: --------------------------------------------------------
+29-07-2019 20:55:25:Input Header:Docid: Error: C001
+29-07-2019 20:55:25:Input Header:Docdesc: Error: 
+29-07-2019 20:55:25:Input Header:Signtyp: Error: F
+29-07-2019 20:55:25:Input Header:Signmul: Error: 
+29-07-2019 20:55:25:Json Array::PRMID: Error: [{"USERID":"USER00002","UTYP":"O","UNAME":"IVLDEV09","PRMID":"P001","DNGID":"R001","DNGST":"A","SEMAIL":"rine.m.a@ivldsp.com","SIGNTYP":""}]
+29-07-2019 20:55:26:Json Array:0:PRMID: Error: P001
+29-07-2019 20:55:26:Json Array:0:USERID: Error: USER00002
+29-07-2019 20:55:26:Json Array:0:DNGID: Error: R001
+29-07-2019 20:55:26:IvlDigiSign:SignPdfFromSmartCard: Error: Certificate is not valid
+29-07-2019 20:57:17::: Error: --------------------------------------------------------
+29-07-2019 20:57:17:Input Header:Docid: Error: C001
+29-07-2019 20:57:17:Input Header:Docdesc: Error: 
+29-07-2019 20:57:17:Input Header:Signtyp: Error: F
+29-07-2019 20:57:17:Input Header:Signmul: Error: 
+29-07-2019 20:57:17:Json Array::PRMID: Error: [{"USERID":"USER00002","UTYP":"O","UNAME":"IVLDEV09","PRMID":"P001","DNGID":"R001","DNGST":"A","SEMAIL":"rine.m.a@ivldsp.com","SIGNTYP":""}]
+29-07-2019 20:57:17:Json Array:0:PRMID: Error: P001
+29-07-2019 20:57:17:Json Array:0:USERID: Error: USER00002
+29-07-2019 20:57:17:Json Array:0:DNGID: Error: R001
+29-07-2019 20:57:17:IvlDigiSign:SignPdfFromSmartCard: Error: Certificate is not valid

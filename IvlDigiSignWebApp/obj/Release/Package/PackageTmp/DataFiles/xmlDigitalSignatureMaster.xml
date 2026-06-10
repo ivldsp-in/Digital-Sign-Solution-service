@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DigitalSignatureMaster>
+ 
+  
+  <DigitalSignatureDetails DSId="R001" UserId="USER00002" >
+    <DigitalSignature DigntalSignatureOriginalId="4796759"  OName="DS CEAT LIMITED 1" SPIN="17011970"
+                      OPlace="" OAddress="" OPinCode="686604" OState="Kerala" OCountry="IN" OOrgName=" Gujarat Narmada Valley Fertilizers and Chemicals Limited" >
+      
+    </DigitalSignature>
+    <Issuer IName="(n)Code Solutions CA 2014" IPlace="Bodakdev, S G Road, Ahmedabad" IAddress="" 
+              IPinCode="380054" IState="Gujarat" ICountry="IN" IOrgName=""></Issuer>
+  </DigitalSignatureDetails>
+
+ <DigitalSignatureDetails DSId="R003" UserId="USER00003" >
+    <DigitalSignature DigntalSignatureOriginalId="4796759"  OName="DS CEAT LIMITED 1" SPIN="17011970"
+                      OPlace="" OAddress="" OPinCode="686604" OState="Kerala" OCountry="IN" OOrgName=" Gujarat Narmada Valley Fertilizers and Chemicals Limited" >
+      
+    </DigitalSignature>
+    <Issuer IName="(n)Code Solutions CA 2014" IPlace="Bodakdev, S G Road, Ahmedabad" IAddress="" 
+              IPinCode="380054" IState="Gujarat" ICountry="IN" IOrgName=""></Issuer>
+  </DigitalSignatureDetails>
+  
+
+ <DigitalSignatureDetails DSId="R004" UserId="USER00004" >
+    <DigitalSignature DigntalSignatureOriginalId="4796759" OName="DS CEAT LIMITED 1" SPIN="17011970"
+                      OPlace="" OAddress="" OPinCode="686604" OState="Kerala" OCountry="IN" OOrgName=" Gujarat Narmada Valley Fertilizers and Chemicals Limited" >
+      
+    </DigitalSignature>
+    <Issuer IName="(n)Code Solutions CA 2014" IPlace="Bodakdev, S G Road, Ahmedabad" IAddress="" 
+              IPinCode="380054" IState="Gujarat" ICountry="IN" IOrgName=""></Issuer>
+  </DigitalSignatureDetails>
+
+</DigitalSignatureMaster>
